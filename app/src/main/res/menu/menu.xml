@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_start"
+        android:title="作为首课程" />
+    <item
+        android:id="@+id/item_end"
+        android:title="作为尾课程" />
+    <item
+        android:id="@+id/item_run"
+        android:title="开始刷课" />
+    <item
+        android:id="@+id/item_redpacket"
+        android:title="领红包" />
+    <item
+        android:id="@+id/item_donate"
+        android:title="请作者吃辣条" />
+    <item
+        android:id="@+id/item_help"
+        android:title="使用帮助" />
+</menu>

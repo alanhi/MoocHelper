@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MoocHelper</string>
+    <string name="help_attention">注意：章节练习是需要自己做的，不然没分数</string>
+    <string name="help_first">0.登录网页，进入到课程界面</string>
+    <string name="help_start">1.打开要开始的课程选择【作为首课程】</string>
+    <string name="help_end">2.打开要结束的课程选择【作为尾课程】</string>
+    <string name="help_run">3.选择【开始刷课】运行</string>
+    <string name="desc">过程截图</string>
+</resources>
