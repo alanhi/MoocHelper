@@ -206,7 +206,7 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent("android.intent.action.VIEW");
         Uri uri = null;
         try {
-            uri = Uri.parse("alipays://platformapi/startapp?saId=10000007&qrcode=https://qr.alipay.com/c1x06626vtdid674xsuqh84");
+            uri = Uri.parse("alipays://platformapi/startapp?saId=10000007&clientVersion=3.7.0.0718&qrcode=https://dwz.cn/6n4GJKBU");
         } catch (Exception e) {
             Toast.makeText(this, "解析失败", Toast.LENGTH_SHORT).show();
         }
